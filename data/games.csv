@@ -1,0 +1,11 @@
+game_id,sku,title,platform,publisher,release_date,esrb_rating,price,is_digital_only
+1,PS5-001,Spider-Man 2,PlayStation 5,Sony Interactive Entertainment,2023-10-20,T,69.99,false
+2,XSX-001,Halo Infinite,Xbox Series X,Microsoft Game Studios,2021-12-08,T,59.99,false
+3,NSW-001,The Legend of Zelda: Tears of the Kingdom,Nintendo Switch,Nintendo,2023-05-12,E10+,69.99,false
+4,PC-001,Cyberpunk 2077,PC,Activision Blizzard,2020-12-10,M,49.99,false
+5,PS5-002,God of War Ragnarök,PlayStation 5,Sony Interactive Entertainment,2022-11-09,M,69.99,false
+6,XSX-002,Forza Horizon 5,Xbox Series X,Microsoft Game Studios,2021-11-09,E,59.99,false
+7,NSW-002,Mario Kart 8 Deluxe,Nintendo Switch,Nintendo,2017-04-28,E,59.99,false
+8,PC-002,Elden Ring,PC,Rockstar Games,2022-02-25,M,59.99,false
+9,PS4-001,The Last of Us Part II,PlayStation 4,Sony Interactive Entertainment,2020-06-19,M,39.99,false
+10,XBO-001,Gears 5,Xbox One,Microsoft Game Studios,2019-09-10,M,29.99,false

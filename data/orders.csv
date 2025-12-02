@@ -1,0 +1,11 @@
+order_id,customer_id,store_id,order_date,status,subtotal,tax_amount,total_amount,payment_method,is_online
+1,1,1,2024-11-20 14:30:00,delivered,139.98,12.60,152.58,credit_card,false
+2,2,2,2024-11-21 10:15:00,delivered,69.99,6.30,76.29,debit_card,false
+3,3,,2024-11-22 16:45:00,shipped,499.99,45.00,544.99,credit_card,true
+4,4,1,2024-11-23 11:20:00,delivered,129.98,11.70,141.68,cash,false
+5,5,,2024-11-24 09:00:00,processing,179.97,16.20,196.17,credit_card,true
+6,1,1,2024-11-25 15:30:00,delivered,119.98,10.80,130.78,credit_card,false
+7,3,2,2024-11-26 13:45:00,delivered,249.97,22.50,272.47,debit_card,false
+8,5,1,2024-11-27 10:00:00,shipped,349.98,31.50,381.48,credit_card,false
+9,2,,2024-11-28 16:20:00,pending,89.99,8.10,98.09,credit_card,true
+10,4,2,2024-11-29 14:15:00,delivered,159.98,14.40,174.38,cash,false

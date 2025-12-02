@@ -1,0 +1,11 @@
+customer_id,email,first_name,last_name,phone,date_of_birth,city,state,zip_code,loyalty_points,join_date
+1,john.gamer@email.com,John,Gamer,555-1001,1995-05-15,Seattle,WA,98101,250,2021-01-10
+2,sarah.player@email.com,Sarah,Player,555-1002,1998-08-22,Portland,OR,97201,180,2021-03-20
+3,mike.console@email.com,Mike,Console,555-1003,1990-12-05,San Francisco,CA,94102,420,2020-11-15
+4,emily.switch@email.com,Emily,Switch,555-1004,2000-03-30,Seattle,WA,98102,95,2022-01-05
+5,alex.rpg@email.com,Alex,RPG,555-1005,1993-07-18,Portland,OR,97202,310,2020-09-30
+6,jessica.fps@email.com,Jessica,FPS,555-1006,1996-11-12,San Francisco,CA,94103,175,2021-06-15
+7,david.sports@email.com,David,Sports,555-1007,1992-04-25,Seattle,WA,98103,280,2021-02-28
+8,lisa.adventure@email.com,Lisa,Adventure,555-1008,1997-09-08,Portland,OR,97203,145,2021-08-10
+9,chris.racing@email.com,Chris,Racing,555-1009,1994-01-20,San Francisco,CA,94104,320,2020-12-05
+10,amy.puzzle@email.com,Amy,Puzzle,555-1010,1999-06-14,Seattle,WA,98104,90,2022-03-20
